@@ -73,12 +73,28 @@ nav li{
 }
 /* after video */
 .icon{
-
+ display: flex;
+ text-align: center;
 }
 nav h3{
     font-weight: 800;
     font-size: 24px;
 }
+.senbt{
+    border: none;
+    text-decoration: underline;
+}
+#i-a{
+    background-color:antiquewhite;
+}
+#i-b{
+    background-color: aqua;
+}
+#i-c{
+    background-color: aquamarine;
+}
+/* last part */
+
 
 
 
