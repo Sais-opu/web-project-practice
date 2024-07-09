@@ -94,7 +94,13 @@ nav h3{
     background-color: aquamarine;
 }
 /* last part */
-
+#cl{
+    color: #fafafa;
+}
+/* last part */
+.last{
+    background-image: url(../assets/handshake.jpg);
+}
 
 
 
