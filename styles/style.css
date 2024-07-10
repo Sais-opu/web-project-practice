@@ -96,14 +96,18 @@ nav h3{
 #i-a{
     background-color:#FF4C1E;
     text-align: center;
+    padding: 5px;
 }
 #i-b{
     background-color: aqua;
     text-align: center;
-    margin:  0px 30px;
+    padding: 5px;
+
 }
 #i-c{
-    background-color: #004CE8;
+    background-color: #004CE8
+    text-align: center;
+    padding: 5px;
 }
 /* last part */
 #cl{
