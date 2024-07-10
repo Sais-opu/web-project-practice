@@ -122,10 +122,16 @@ nav h3{
 .foot{
     display: flex;
     margin-top: auto;
+    background-color: #d2d4d6;
+    margin-top:auto;
 }
 #ft{
     margin-right: auto;
     
+}
+.ftr{
+    padding-right: 20px;
+    margin-top: auto;
 }
 #bott{
     width: 150px;
