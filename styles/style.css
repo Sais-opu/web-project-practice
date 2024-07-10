@@ -82,8 +82,9 @@ nav li{
 }
 .mid{
     display: flex;
-    margin-left: 200px;
-    padding: 25px;
+    margin-left: 350px;
+    padding:0%;
+    gap: 20px;
 }
 nav h3{
     font-weight: 800;
@@ -102,10 +103,9 @@ nav h3{
     background-color: aqua;
     text-align: center;
     padding: 5px;
-
 }
 #i-c{
-    background-color: #004CE8
+    background-color: #004CE8;
     text-align: center;
     padding: 5px;
 }
@@ -117,6 +117,7 @@ nav h3{
 .last{
     background-image: url(../assets/handshake.jpg);
     background-size: 100%;
+   
 }
 .foot{
     display: flex;
