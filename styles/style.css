@@ -118,8 +118,13 @@ nav h3{
     background-image: url(../assets/handshake.jpg);
     background-size: 100%;
 }
-#foot{
+.foot{
     display: flex;
+    margin-top: auto;
+}
+#ft{
+    margin-right: auto;
+    
 }
 
 
