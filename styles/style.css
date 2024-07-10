@@ -115,9 +115,19 @@ nav h3{
 /* last part */
 .last{
     background-image: url(../assets/handshake.jpg);
-    
+    /* background-size:cover ;
     width: auto;
     height: auto;
+*/
+    background-size:initial;
+    margin-top: 20px;
+    padding: 200px 220px;
+    background-repeat: no-repeat;
+    
+}
+.bg{
+    margin: 0px 100px;
+    
 }
 .foot{
     display: flex;
@@ -133,9 +143,8 @@ nav h3{
     padding-right: 20px;
     margin-top: auto;
 }
-#bott{
-    width: 150px;
-    
+section input[type ="Suggest"]{
+    width: 10%; 
 }
 
 
