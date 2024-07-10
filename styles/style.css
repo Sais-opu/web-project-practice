@@ -59,7 +59,7 @@ nav li{
     box-shadow: 0 6px 50px 0 red;}
     
 .skill-container{
-    display: flex;
+    
     gap: 40px;
 }
 .white{
@@ -71,10 +71,20 @@ nav li{
     border-radius: 5px;
     margin-top: 20px;
 }
+
 /* after video */
-.icon{
- display: flex;
- text-align: center;
+.cen{
+    text-align: center;
+}
+.icon, .center {
+    
+    text-align: center;
+    padding-right: -200px;
+}
+.mid{
+    display: flex;
+    margin-left: 200px;
+    padding: 25px;
 }
 nav h3{
     font-weight: 800;
@@ -86,9 +96,11 @@ nav h3{
 }
 #i-a{
     background-color:antiquewhite;
+    text-align: center;
 }
 #i-b{
     background-color: aqua;
+    text-align: center;
 }
 #i-c{
     background-color: aquamarine;
@@ -100,6 +112,9 @@ nav h3{
 /* last part */
 .last{
     background-image: url(../assets/handshake.jpg);
+}
+#foot{
+    display: flex;
 }
 
 
