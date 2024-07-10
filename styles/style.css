@@ -126,9 +126,8 @@ nav h3{
     
 }
 .bg{
-    margin: 0px 100px;
-    margin-bottom: 20px;
-    
+    margin: 0px 100px 20px 100px;
+    /* margin-bottom: 20px;     */
 }
 .foot{
     display: flex;
@@ -137,8 +136,7 @@ nav h3{
     margin-top:auto;
 }
 #ft{
-    margin-right: auto;
-    
+    margin-right: auto; 
 }
 .ftr{
     padding-right: 20px;
@@ -146,6 +144,11 @@ nav h3{
 }
 section input[type ="Suggest"]{
     width: 50%; 
+}
+#reg{
+    font-weight: 100;
+    padding-bottom: 30;
+    color: #d2d4d6;
 }
 
 
